@@ -45,7 +45,7 @@ The main purpose of this project is to practice **HTML and CSS** and create an o
 
 **Vashu Kashyap**
 
-GitHub: [VashuKashyap08](https://github.com/VashuKashyap08)
+GitHub: [VASHUKASHYAP2008](https://github.com/VashuKashyap08)
 
 ---
 
